@@ -16,3 +16,10 @@ ante(niz);
 */
 
 console.log("oooo");
+console.log("hahahah");
+
+function h() {
+  console.log("hahhahaha");
+}
+
+h();
